@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "fences.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 210,
+				"h": 18
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "wooden_fence_left_top",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wooden_fence_horizontal",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 16,
+						"y": 1,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wooden_fence_right_top",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 34,
+						"y": 1,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wooden_fence_horizontal_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 49,
+						"y": 1,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wooden_fence_horizontal_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 64,
+						"y": 1,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wooden_gate_horizontal",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 79,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "wooden_gate_vertical",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 6,
+						"h": 16
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 6,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wooden_fence_vertical_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 9,
+						"h": 16
+					},
+					"frame": {
+						"x": 105,
+						"y": 1,
+						"w": 9,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wooden_fence_vertical_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 9,
+						"h": 16
+					},
+					"frame": {
+						"x": 116,
+						"y": 1,
+						"w": 9,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wooden_fence_right_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 127,
+						"y": 1,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "wooden_fence_left_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 142,
+						"y": 1,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "stone_fence_horizontal",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "stone_gate_horizontal",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 175,
+						"y": 1,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "stone_fence_vertical_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 7,
+						"h": 16
+					},
+					"frame": {
+						"x": 193,
+						"y": 1,
+						"w": 7,
+						"h": 16
+					}
+				},
+				{
+					"filename": "stone_fence_vertical_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 7,
+						"h": 16
+					},
+					"frame": {
+						"x": 202,
+						"y": 1,
+						"w": 7,
+						"h": 16
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a917d4e6acf16c9726d88511aadefdb0:8bc3aaca5b05ae07894f16758c3c969c:ed743b5dc4ae716efd555b84e5159d50$"
+	}
+}
