@@ -239,8 +239,11 @@ class Farm extends Phaser.Scene {
 
         //inputs and camera setup
         this.cursor = this.input.keyboard.createCursorKeys();
-        this.cameras.main.startFollow(this.player, false, 0.2, 0.2);
+        this.cameras.main.startFollow(this.player, true, 1, 1);
         this.cameras.main.setZoom(3,3)
+        this.cameras.main.scrollY=1;
+        this.cameras.main.scrollX=1;
+        this.physics.world.fixedStep = false;
         //adding buildings
         const house = this.physics.add.sprite(720, 270, 'player_house');
         house.setImmovable(true);

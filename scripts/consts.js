@@ -1,6 +1,6 @@
 export const screenSize = {
-    width: 1000, 
-    height: 700 
+    width: 1200, 
+    height: 800 
 }
 export const scale = 5;
 export const mapWidth = 30;
