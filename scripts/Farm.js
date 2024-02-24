@@ -308,7 +308,12 @@ class Farm extends Phaser.Scene {
                 this.player.anims.stop();
             }
         }
+        if(this.player.body.velocity.x!=0&&this.player.body.velocity.y!=0){
+            this.player.body.velocity.x/=(Math.sqrt(2))
+            this.player.body.velocity.y/= (Math.sqrt(2));
 
+        }
+    
         
      
         
